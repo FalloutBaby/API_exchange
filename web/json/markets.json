@@ -1,0 +1,34 @@
+{
+    "0": {
+        "moneyRates": {
+            "EURRUB": "70.49",
+            "EURUSD": "1.1",
+            "RUBEUR": "0.014",
+            "RUBUSD": "0.016",
+            "USDEUR": "0.91",
+            "USDRUB": "64"
+        },
+        "route": "http://www.berge.com/",
+        "id": "1",
+        "name": "Ritchie-Schmidt",
+        "EUR": "797068",
+        "USD": "3391526",
+        "RUB": "68840285"
+    },
+    "1": {
+        "moneyRates": {
+            "EURRUB": "70.49",
+            "EURUSD": "1.1",
+            "RUBEUR": "0.014",
+            "RUBUSD": "0.016",
+            "USDEUR": "0.91",
+            "USDRUB": "64"
+        },
+        "route": "http://www.satterfield.com/cupiditate-magni-numquam-sint",
+        "id": "2",
+        "name": "Kerluke, Stokes and Kunze",
+        "EUR": "70494",
+        "USD": "5012448",
+        "RUB": "52078937"
+    }
+}
