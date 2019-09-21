@@ -85,7 +85,7 @@ class Market extends \yii\base\Model {
         $cur2 = substr($currencies, 3, 3);
         $rate = $this->moneyRates[$currencies];
         $this->$cur1 -= $amount / $rate;
-        $this->$cur2 += $amount * $rate;
+        $this->$cur2 += $amount;
     }
 
     /**
